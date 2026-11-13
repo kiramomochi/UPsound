@@ -1,0 +1,4 @@
+# Saidas de compilacao
+dist/
+# Instalador do Equalizer APO (baixado por tools/get-apo.ps1)
+vendor/
